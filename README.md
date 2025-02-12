@@ -1,5 +1,6 @@
 # Challenge-Amigo-secreto---PT
-##CHALLENGE AMIGO SECRETO ![Texto Alternativo](![amigo-secreto](https://github.com/user-attachments/assets/d2e9b829-93a8-43de-9c54-98818d9307f4))
+##CHALLENGE AMIGO SECRETO <img src="![amigo-secreto](https://github.com/user-attachments/assets/1ee6fc29-c0b2-42f4-9184-06efe6414367)
+" alt="interface do jogo">
 
 Esse código é uma implementação básica para gerenciar um sorteio de amigo secreto, permitindo adicionar amigos e sortear um deles de forma aleatória. 
 ## FORMAS DE USAR
@@ -24,5 +25,5 @@ Aplicativo criado com intuito de unir diversão, praticidade e união. Seja com 
 3 - Faça o sorteio de maneira totalmente aleatória clicando no botão 'Sortear Amigo'.
 4 - Divirta-se !!
 ## CRIADOR ##DaniloMoraes
-![Texto Alternativo](![1736900184665](https://github.com/user-attachments/assets/664ca903-dce5-4c2d-97e6-2f965102b5f0)
-)
+<img src="![1736900184665](https://github.com/user-attachments/assets/2d6a7961-7ef2-404d-9f27-76514feffc9e)
+" alt="foto do criador do app">
