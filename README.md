@@ -1,4 +1,4 @@
-# Challenge-Amigo-secreto---PT
+<h1 align="center"> # Challenge-Amigo-secreto---PT </h1> # Challenge-Amigo-secreto---PT
 ##CHALLENGE AMIGO SECRETO <img src="![amigo-secreto](https://github.com/user-attachments/assets/1ee6fc29-c0b2-42f4-9184-06efe6414367)
 " alt="interface do jogo">
 
@@ -24,5 +24,7 @@ Aplicativo criado com intuito de unir diversão, praticidade e união. Seja com 
 2 - Digite os nomes dos participantes da brincadeira.
 3 - Faça o sorteio de maneira totalmente aleatória clicando no botão 'Sortear Amigo'.
 4 - Divirta-se !!
+## Ferramentas utilizadas:
+
 ## CRIADOR DaniloMoraes
 <img src="[URL_da_Imagem](https://media.licdn.com/dms/image/v2/D4D03AQED7XuvIDfnVw/profile-displayphoto-shrink_800_800/B4DZRnUYWxHYAc-/0/1736900184665?e=1744848000&v=beta&t=pGEKk0jYKp4kqg7TZLab3Js-e5rY8gOUXBYsIhcQZPY)" alt="foto do desenvolvedor">
