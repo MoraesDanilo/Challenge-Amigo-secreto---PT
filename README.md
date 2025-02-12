@@ -25,5 +25,4 @@ Aplicativo criado com intuito de unir diversão, praticidade e união. Seja com 
 3 - Faça o sorteio de maneira totalmente aleatória clicando no botão 'Sortear Amigo'.
 4 - Divirta-se !!
 ## CRIADOR DaniloMoraes
-<img src="![1736900184665](https://github.com/user-attachments/assets/5bc2612e-22b9-470e-81ca-e1fe20a307c7)
-" alt="Texto Alternativo">
+<img src="[URL_da_Imagem](https://media.licdn.com/dms/image/v2/D4D03AQED7XuvIDfnVw/profile-displayphoto-shrink_800_800/B4DZRnUYWxHYAc-/0/1736900184665?e=1744848000&v=beta&t=pGEKk0jYKp4kqg7TZLab3Js-e5rY8gOUXBYsIhcQZPY)" alt="foto do desenvolvedor">
