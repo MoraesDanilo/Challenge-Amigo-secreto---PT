@@ -27,4 +27,6 @@ Aplicativo criado com intuito de unir diversão, praticidade e união. Seja com 
 ## Ferramentas utilizadas:
 
 ## CRIADOR DaniloMoraes
+https://danilomoraes.my.canva.site/
+
 <img src="[URL_da_Imagem](https://media.licdn.com/dms/image/v2/D4D03AQED7XuvIDfnVw/profile-displayphoto-shrink_800_800/B4DZRnUYWxHYAc-/0/1736900184665?e=1744848000&v=beta&t=pGEKk0jYKp4kqg7TZLab3Js-e5rY8gOUXBYsIhcQZPY)" alt="foto do desenvolvedor">
