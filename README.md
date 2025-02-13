@@ -1,6 +1,5 @@
 <h1 align="center"> # Challenge-Amigo-secreto---PT </h1> # Challenge-Amigo-secreto---PT
-##CHALLENGE AMIGO SECRETO <img src="![amigo-secreto](https://github.com/user-attachments/assets/1ee6fc29-c0b2-42f4-9184-06efe6414367)
-" alt="interface do jogo">
+##CHALLENGE AMIGO SECRETO
 
 Esse código é uma implementação básica para gerenciar um sorteio de amigo secreto, permitindo adicionar amigos e sortear um deles de forma aleatória. 
 ## FORMAS DE USAR
@@ -28,5 +27,5 @@ Aplicativo criado com intuito de unir diversão, praticidade e união. Seja com 
 
 ## CRIADOR DaniloMoraes
 https://danilomoraes.my.canva.site/
+![Image](https://github.com/user-attachments/assets/6120be11-77d3-4185-8e5f-e676f9f62420)
 
-<img src="[URL_da_Imagem](https://media.licdn.com/dms/image/v2/D4D03AQED7XuvIDfnVw/profile-displayphoto-shrink_800_800/B4DZRnUYWxHYAc-/0/1736900184665?e=1744848000&v=beta&t=pGEKk0jYKp4kqg7TZLab3Js-e5rY8gOUXBYsIhcQZPY)" alt="foto do desenvolvedor">
