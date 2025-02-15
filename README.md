@@ -24,6 +24,8 @@ Aplicativo criado com intuito de unir diversão, praticidade e união. Seja com 
 3 - Faça o sorteio de maneira totalmente aleatória clicando no botão 'Sortear Amigo'.
 4 - Divirta-se !!
 ## Ferramentas utilizadas:
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 
 ## CRIADOR DaniloMoraes
 https://danilomoraes.my.canva.site/
